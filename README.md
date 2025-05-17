@@ -7,4 +7,4 @@ Run the two mlx files for demo of the algorithm.
 
 Refer to REPORT.pdf for a detailed explanation of our approach and simulation results
 
-There is one with adaptive rho, no adaptive epsilon (SUBMIT_with_adaptive_rho.mlx) and another with no adaptive rho, no adaptive epsilon (SUBMIT_Demo_One_Slot_No_Adaptive.mlx).
+There is one with adaptive rho and adaptive epsilon (SUBMIT_with_adaptive_rho_adaptive_epsilon.mlx) and another with no adaptive rho, no adaptive epsilon (SUBMIT_Demo_One_Slot_No_Adaptive.mlx).
